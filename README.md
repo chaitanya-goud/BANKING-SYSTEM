@@ -2,9 +2,47 @@
 ## Project Description
 A comprehensive Object-Oriented Programming (OOP) project that simulates a banking system. This application allows users to perform essential banking operations, providing a robust and secure environment to manage accounts, transactions, and user information.
 
+## Team Contribution :
+- chaitanya :
+  customerai.java
+  video editing
+  all the documentation(collab with shivaranjani and siddhartha)
+  enchanced UML diagram (main lead)
+  Bankingsystem23.java
+  idea of ai voice
+  gui
+    
+- siddhartha :
+  bankaccount.java
+  GUI(collab with sriram,chaitanya and shivaranjani) was main lead and giving instructions
+  
+
+-sriram:
+ savings, fixed and current account code
+ gui
+
+
+-pushpak:
+ manager, bankstaff and loan account code
+ video presentations
+
+-shivaranjani:
+user, account classes code
+gui
+video editing
+transaction.java
+
+
+## Concepts used :
+- Abraction
+- Polymorphism
+- Inheritance
+- Collections
+- Encapulation
+
 ## key note :
   there will be 2 parts of this file:
-      1. focuses and explains on console based application(consoleapplication.)
+      1. focuses and explains on console based application(ConsoleBasedApplication.zip)
       2. focuses and explains on gui based application
 
 ## 1.Console based application:
