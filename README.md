@@ -5,9 +5,9 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 
 ## INFORMATION ABOUT ALL THE FOLDERS UPLOADED :
 - ConsoleBasedApplication.zip - contains all the codes to run our console based application.
-- REPORT.md - contains the report of the project which has 2 parts :
-       1. explaining how we built our console based application
-       2. explaining how we built our gui on top of it!!
+- REPORT.md- contains the report of the project which has 2 parts :
+       - explaining how we built our console based application
+       - explaining how we built our gui on top of it!!
 
 ## How to run?
 - console based : first compile Bankingsystem23.java and run java Bankingsystem23
