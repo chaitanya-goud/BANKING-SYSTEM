@@ -17,7 +17,7 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
   bankaccount.java
   main lead on creating frames, panels, buttons etc and connecting the class files to the  to the buttons.
 
-  - sriram:
+- sriram:
  savings, fixed and current account code,
  gui(worked on manager menu)
 
@@ -41,7 +41,8 @@ transaction.java.
 - Inheritance
 - Collections
 - Encapulation
-
+- exceptional handling
+  
 ## key note :
   there will be 2 parts of this file:
       1. focuses and explains on console based application(ConsoleBasedApplication.zip)
