@@ -24,7 +24,7 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 
 - pushpak:
  manager, bankstaff and loan account code,
- video presentations,gui.
+ video presentations,gui(bankstaff menu)
 
 - shivaranjani:
 user, account classes code,
