@@ -6,20 +6,20 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 - chaitanya :
   customerai.java,
   video editing,
-  all the documentation(collab with shivaranjani and siddhartha),
+  all the documentation(collab with siddhartha(gui)),
   enchanced UML diagram (main lead),
   Bankingsystem23.java,
   idea of ai voice,
-  gui.( As im kinda more into ai, so ai personality ai voice ai asisstant blah blah)
+  gui(worked on bank staff menu)
+  ( As im kinda more into ai, so ai personality ai voice ai asisstant blah blah)
     
 - siddhartha :
   bankaccount.java
-  GUI(collab with sriram,chaitanya and shivaranjani) was main lead and giving instructions
-  
+  main lead on creating frames, panels, buttons etc and connecting the class files to the  to the buttons.
 
-- sriram:
+  - sriram:
  savings, fixed and current account code,
- gui
+ gui(worked on manager menu)
 
 
 - pushpak:
@@ -28,10 +28,12 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 
 - shivaranjani:
 user, account classes code,
-gui
+gui(worked on customer menu)
 video editing,
 transaction.java.
 
+
+###### NOT ONLY FOR OOPS PORJECT, FOR EVERY PROJECT ITS THE SAME TEAM!!;)(FROM SEM 1).
 
 ## Concepts used :
 - Abraction
@@ -160,8 +162,15 @@ The CustomerAI class offers a basic prototype of a banking AI assistant capable 
 ### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
 
 # GUI (2ND PHASE)
-
 So, in this phase we gotta a new class called BankingSystemGUI
+## requirements
+- java.awt.*
+- java.util.Date
+- java.util.List
+- javax.swing.*
+
+
+
 ## BankingSystemGUI.java file 
 this file is graphical user interface of the project that we are working and it uses all the methods and classes and runs the user interface 
 
@@ -171,3 +180,6 @@ https://www.youtube.com/watch?v=1d_gtGBKdRA
 ### we have also made a demo video for the implementation of GUI interface 
 which is explained is explained by shivaranjani
 https://youtu.be/TVYvadY-fsw?si=sFgBvLT6v3j7q1Tw
+
+##### note : 
+customer.ai class isnt implemented in gui its only implemented in console based application..
