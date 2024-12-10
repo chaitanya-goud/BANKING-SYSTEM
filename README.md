@@ -10,7 +10,7 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
   enchanced UML diagram (main lead),
   Bankingsystem23.java,
   idea of ai voice,
-  gui.
+  gui.( As im kinda more ai person so ai voice ai asisstant blah blah)
     
 - siddhartha :
   bankaccount.java
