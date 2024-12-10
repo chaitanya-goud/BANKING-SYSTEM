@@ -44,6 +44,7 @@ transaction.java.
   there will be 2 parts of this file:
       1. focuses and explains on console based application(ConsoleBasedApplication.zip)
       2. focuses and explains on gui based application
+      3. WE FOCUSED ON DEVELOPMENT OF PROTOTYPE ONLY!!
 
 ## 1.Console based application:
 from here on we'll be talikng about only console based application how it works etc etc as we wanted to go in a flow without directly jumping into the gui part!!!
