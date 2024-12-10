@@ -48,22 +48,21 @@ transaction.java.
 ## 1.Console based application:
 from here on we'll be talikng about only console based application how it works etc etc as we wanted to go in a flow without directly jumping into the gui part!!!
 ## files in the folder
-Account.java
-Bankingsystem23.java
-BankStaff.java
-CurrentAccount.java
-Customer.java
-CustomerAI.java
-FixedAccount.java
-Loan.java
-Manager.java
-SavingsAccount.java
-Transaction.java
-User.java
+- Account.java
+- Bankingsystem23.java
+- BankStaff.java
+- CurrentAccount.java
+- Customer.java
+- CustomerAI.java
+- FixedAccount.java
+- Loan.java
+- Manager.java
+- SavingsAccount.java
+- Transaction.java
+- User.java
 
 ## requirements
 Here are the required libraries for your project:
-
 - java.util.ArrayList
 - java.util.List
 - java.util.Date
@@ -76,12 +75,12 @@ Here are the required libraries for your project:
 - java.util.regex.Pattern
 - java.util.Calendar
 
-##### here is a youtube link explaining the console based application from scratch :
+### here is a youtube link explaining the console based application from scratch :
 https://youtube.com/playlist?list=PLxCWTd5YqISA-Wjn3dcWRobFTkV_3vORa&si=w10pcI9FN4GpjEWe
 
 We have seen the complete explaination of our UML daigram, code and demo.
 
-##### We have introducted a new class called Customer.ai in our application which isn't there in that link!
+### We have introducted a new class called Customer.ai in our application which isn't there in that link!
 ## CustomerAI Class
 ### Description:
 The `CustomerAI` class introduces an intelligent assistant to enhance the user experience within the banking system. It leverages natural language processing (NLP) patterns to understand user queries and provide relevant responses. This class handles various banking operations through a conversational interface, ensuring seamless interaction.
@@ -163,4 +162,4 @@ https://youtu.be/LsdmPjgzsgw
 
 ### conclusion :
 The CustomerAI class offers a basic prototype of a banking AI assistant capable of handling a range of user queries and banking operations. While it serves as a proof of concept, future improvements in scalability, security, and NLP capabilities will be essential to support a production-level banking system. By addressing these areas, the system can evolve into a robust, secure, and user-friendly solution for managing banking interactions through AI.
-##### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
+### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
