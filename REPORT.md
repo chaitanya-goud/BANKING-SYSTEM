@@ -64,17 +64,17 @@ User.java
 ## requirements
 Here are the required libraries for your project:
 
-java.util.ArrayList
-java.util.List
-java.util.Date
-java.util.HashMap
-java.util.Iterator
-java.util.Scanner
-java.lang.reflect.Field
-java.util.HashSet
-java.util.Set
-java.util.regex.Pattern
-java.util.Calendar
+- java.util.ArrayList
+- java.util.List
+- java.util.Date
+- java.util.HashMap
+- java.util.Iterator
+- java.util.Scanner
+- java.lang.reflect.Field
+- java.util.HashSet
+- java.util.Set
+- java.util.regex.Pattern
+- java.util.Calendar
 
 ##### here is a youtube link explaining the console based application from scratch :
 https://youtube.com/playlist?list=PLxCWTd5YqISA-Wjn3dcWRobFTkV_3vORa&si=w10pcI9FN4GpjEWe
