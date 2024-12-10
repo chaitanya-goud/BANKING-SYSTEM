@@ -17,16 +17,16 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
   GUI(collab with sriram,chaitanya and shivaranjani) was main lead and giving instructions
   
 
--sriram:
+- sriram:
  savings, fixed and current account code
  gui
 
 
--pushpak:
+- pushpak:
  manager, bankstaff and loan account code
  video presentations
 
--shivaranjani:
+- shivaranjani:
 user, account classes code
 gui
 video editing
