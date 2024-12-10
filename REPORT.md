@@ -158,6 +158,9 @@ While the current implementation is designed as a prototype, it can be extended 
 
 ##### Concurrency Management: For multi-user support, the system must implement proper concurrency handling to avoid issues in a distributed environment.
 
+### link for demo for Customer.ai class
+https://youtu.be/LsdmPjgzsgw
+
 ### conclusion :
 The CustomerAI class offers a basic prototype of a banking AI assistant capable of handling a range of user queries and banking operations. While it serves as a proof of concept, future improvements in scalability, security, and NLP capabilities will be essential to support a production-level banking system. By addressing these areas, the system can evolve into a robust, secure, and user-friendly solution for managing banking interactions through AI.
 ##### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
