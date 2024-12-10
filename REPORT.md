@@ -92,11 +92,9 @@ The `CustomerAI` class introduces an intelligent assistant to enhance the user e
 
 2. **Banking Operations**:  
    - View account balance.  
-   - Deposit money into an account.  
-   - Withdraw money from an account.  
    - View transaction history.  
    - Create and manage different types of accounts (savings, fixed, current).  
-   - Manage loans, including creation, repayment, viewing, and closure.  
+   - Manage loans.  
 
 3. **Error Handling**:  
    Provides meaningful responses for invalid or unrecognized queries.
@@ -111,17 +109,7 @@ Below are examples of supported queries grouped by functionality:
 - "What is my balance?"  
 - "How much money do I have in my account?"  
 - "Show my current balance."
-
-#### Deposits:
-- "Deposit 5000 into my savings account."  
-- "Add funds to my account."  
-- "Credit 10000 to my account."
-
-#### Withdrawals:
-- "Withdraw 2000 from my current account."  
-- "Take out money from my savings account."  
-- "Debit 5000 from my account."
-
+  
 #### Transaction History:
 - "Show my transaction history."  
 - "List my account statement."  
@@ -153,8 +141,6 @@ we are even attaching the class file so it must not be an issue!!
 
 ## note: 
 we didnt use any database, we are storing all our data in the required data structures!
-
-### below the link where we wanted to show how our ai assistant works :
 
 ##### Strengths:
 ##### Modular Query Handling: The system is easy to extend by adding new query patterns or actions.
