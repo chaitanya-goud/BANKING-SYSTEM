@@ -95,11 +95,7 @@ The `CustomerAI` class introduces an intelligent assistant to enhance the user e
    - Create and manage different types of accounts (savings, fixed, current).  
    - Manage loans.  
 
-3. **Error Handling**:  
-   Provides meaningful responses for invalid or unrecognized queries.
 
-4. **User Interaction**:  
-   Prompt-based interactions to request additional details (e.g., account number, deposit amount, loan details).
 
 ### Supported Queries:
 Below are examples of supported queries grouped by functionality:
@@ -119,12 +115,7 @@ Below are examples of supported queries grouped by functionality:
 - "Open a fixed account with 5 years term."  
 - "Show all my account details."
 
-#### Loans:
-- "Apply for a loan."  
-- "Create a new loan for 50000 with a 7% interest rate."  
-- "Repay 10000 for my loan."  
-- "View all my loans."  
-- "Close my loan account."
+and many more!!
 
 ### Integration:
 The `CustomerAI` class integrates seamlessly with the existing `Customer` and `Account` classes, using their methods to perform operations. It ensures encapsulation and reusability of code, adhering to OOP principles.
