@@ -41,7 +41,8 @@ transaction.java.
 - Inheritance
 - Collections
 - Encapulation
-- exceptional handling
+- Exceptional handling
+- GUI implementation
   
 ## key note :
   there will be 2 parts of this file:
@@ -183,4 +184,8 @@ which is explained is explained by shivaranjani
 https://youtu.be/TVYvadY-fsw?si=sFgBvLT6v3j7q1Tw
 
 ##### note : 
-customer.ai class isnt implemented in gui its only implemented in console based application..
+customer.ai class isnt implemented in gui its only implemented in console based application.
+
+The clear explanation is given in the videos.
+
+### Thank you.
