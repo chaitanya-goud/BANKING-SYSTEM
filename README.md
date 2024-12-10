@@ -4,13 +4,13 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 
 ## Team Contribution :
 - chaitanya :
-  customerai.java
-  video editing
-  all the documentation(collab with shivaranjani and siddhartha)
-  enchanced UML diagram (main lead)
-  Bankingsystem23.java
-  idea of ai voice
-  gui
+  customerai.java,
+  video editing,
+  all the documentation(collab with shivaranjani and siddhartha),
+  enchanced UML diagram (main lead),
+  Bankingsystem23.java,
+  idea of ai voice,
+  gui.
     
 - siddhartha :
   bankaccount.java
@@ -18,19 +18,19 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
   
 
 - sriram:
- savings, fixed and current account code
+ savings, fixed and current account code,
  gui
 
 
 - pushpak:
- manager, bankstaff and loan account code
- video presentations
+ manager, bankstaff and loan account code,
+ video presentations,gui.
 
 - shivaranjani:
-user, account classes code
+user, account classes code,
 gui
-video editing
-transaction.java
+video editing,
+transaction.java.
 
 
 ## Concepts used :
@@ -174,4 +174,4 @@ While the current implementation is designed as a prototype, it can be extended 
 
 ##### conclusion :
 The CustomerAI class offers a basic prototype of a banking AI assistant capable of handling a range of user queries and banking operations. While it serves as a proof of concept, future improvements in scalability, security, and NLP capabilities will be essential to support a production-level banking system. By addressing these areas, the system can evolve into a robust, secure, and user-friendly solution for managing banking interactions through AI.
-##### so, this is all about Customerai.java, lets proceed futher!!!!
+##### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
