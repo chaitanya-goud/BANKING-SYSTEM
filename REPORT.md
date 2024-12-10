@@ -149,8 +149,11 @@ While the current implementation is designed as a prototype, it can be extended 
 
 ##### Concurrency Management: For multi-user support, the system must implement proper concurrency handling to avoid issues in a distributed environment.
 
-### link for demo for Customer.ai class
+### link for demo for Customer.ai class which is explained by chaitanya
 https://youtu.be/LsdmPjgzsgw
+
+### link for explanation for updated loan class
+https://youtu.be/COIZL5Gr-x8?si=TiGuxW1zqlQCQRhu
 
 ### conclusion :
 The CustomerAI class offers a basic prototype of a banking AI assistant capable of handling a range of user queries and banking operations. While it serves as a proof of concept, future improvements in scalability, security, and NLP capabilities will be essential to support a production-level banking system. By addressing these areas, the system can evolve into a robust, secure, and user-friendly solution for managing banking interactions through AI.
@@ -161,3 +164,10 @@ The CustomerAI class offers a basic prototype of a banking AI assistant capable 
 So, in this phase we gotta a new class called BankingSystemGUI
 ## BankingSystemGUI.java file 
 this file is graphical user interface of the project that we are working and it uses all the methods and classes and runs the user interface 
+
+for the complete explanation of the code of BankingSystemGUI.java watch the following video which is explained by siddhartha :
+https://www.youtube.com/watch?v=1d_gtGBKdRA
+
+### we have also made a demo video for the implementation of GUI interface 
+which is explained is explained by shivaranjani
+https://youtu.be/TVYvadY-fsw?si=sFgBvLT6v3j7q1Tw
