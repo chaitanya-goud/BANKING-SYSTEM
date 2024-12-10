@@ -12,8 +12,7 @@ A comprehensive Object-Oriented Programming (OOP) project that simulates a banki
 ## How to run?
 - console based : first compile Bankingsystem23.java and run java Bankingsystem23
 - gui :
--
-- the class files are also attached in the zip!, so i dont think you will face any issues!
+- The class files are also attached in the zip!, so i dont think you will face any issues!
 # Note :
 all the required information is given in the report!
 https://github.com/chaitanya-goud/BANKING-SYSTEM/blob/main/REPORT.md
