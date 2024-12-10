@@ -155,3 +155,9 @@ https://youtu.be/LsdmPjgzsgw
 ### conclusion :
 The CustomerAI class offers a basic prototype of a banking AI assistant capable of handling a range of user queries and banking operations. While it serves as a proof of concept, future improvements in scalability, security, and NLP capabilities will be essential to support a production-level banking system. By addressing these areas, the system can evolve into a robust, secure, and user-friendly solution for managing banking interactions through AI.
 ### so, this is all about Customerai.java and console based application, lets proceed futher!!!!
+
+# GUI (2ND PHASE)
+
+So, in this phase we gotta a new class called BankingSystemGUI
+## BankingSystemGUI.java file 
+this file is graphical user interface of the project that we are working and it uses all the methods and classes and runs the user interface 
